@@ -1,6 +1,9 @@
 # HolographicDisplayFan
 
+![tempsnip](https://user-images.githubusercontent.com/123864033/215341999-49846908-dc0c-411a-8f91-e20d7e7024cf.png)
+
 This project have been created at Politehnica Timisoara as part of my study plan. 
+
 The teacher: Sorin Nanu proposed this porject: "Holographic Display Fan using Arduino ATmega328 and 10 LEDs". 
 After the final evaluation my project got the best score. The physical project is now showcased in Sorin Nanu Laboratory.
 
