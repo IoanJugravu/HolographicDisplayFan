@@ -6,10 +6,7 @@ After the final evaluation my project got the best score. The physical project i
 
 How the Project Works:
 
--using an internal interupstion to mesure the time it take the fan to complate a revolution, and use this time to display in the next revolution.
-
--how every letter is displayed is saved in: "letters.h" file togheder with the display function: "afisareLitera(litera, i)".
-
-	-the display function modify the output of PORTC and PORTD on the ATmega328 chip.
-
--one revolution of the blade is divided in 120 circle arcs. In each arc will be displayed a pice of letter or nothing for space.
+-Using an internal interupstion to mesure the time it take the fan to complate a revolution, and use this time to display in the next revolution.
+-How every letter is displayed is saved in: "letters.h" file togheder with the display function: "afisareLitera(litera, i)".
+	-The display function modify the output of PORTC and PORTD on the ATmega328 chip.
+-One revolution of the blade is divided in 120 circle arcs. In each arc will be displayed a pice of letter or nothing for space.
